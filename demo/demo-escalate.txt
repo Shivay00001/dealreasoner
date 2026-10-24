@@ -1,0 +1,24 @@
+==============================================================
+  VERDICT: ESCALATE   confidence 0.73   (scorer: jev)
+==============================================================
+Why: Not enough evidence to decide [E1]: budget undisclosed
+and no red flags to rule on — human review needed.
+>>> Escalated: not enough evidence to decide — human reviews.
+Ask on the call:
+  - What is the approved budget range for this work?
+  - Who is the final decision maker?
+  - What does success look like in the first 30 days?
+
+Reasoning trace: 3 cited claims kept, 0 uncited dropped (9 evidence items).
+Data layer: local-fallback · LLM: local-fallback
+Hypotheses:
+  H1 [good-fit] Good fit — past wins [E7] [E8] resemble this
+    brief [E3] [E1].
+    cites: [E7] [E8] [E3] [E1]
+  H2 [weak-fit] Weak fit — similar past deals were lost [E4]
+    [E5], so scope or budget mismatch is plausible [E1].
+    cites: [E4] [E5] [E1]
+  H3 [red-flag] Red flags — no explicit red-flag signals;
+    verify budget authority and decision maker before a call
+    [E3] [E1].
+    cites: [E3] [E1]
