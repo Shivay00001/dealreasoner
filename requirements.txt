@@ -1,0 +1,5 @@
+# DealReasoner — stdlib only. No third-party packages required.
+# Python 3.11+ (uses only json, os, re, subprocess, uuid, dataclasses,
+# pathlib, http.server). HTTP calls go through curl (see the Zetaris and
+# Meterless clients) because urllib proxy-tunnels time out in sandboxes.
+# Jev scoring shells out to the project's jev_curl.py helper when present.
