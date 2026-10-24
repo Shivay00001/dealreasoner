@@ -1,0 +1,13 @@
+deal_id,outcome,niche,service,budget_usd,reason
+d01,won,real estate,AI agents / automation,4500,"Clear scope, decision maker on call, paid pilot first"
+d02,won,hotels,websites,3000,"Urgent need before season, single decision maker"
+d03,lost,restaurants,SEO,400,"Budget far below price band, wanted guarantees"
+d04,lost,clinics,AI agents / automation,,"No budget disclosed, committee decision, stalled 6 weeks"
+d05,won,law firms,AI agents / automation,8000,"Compliance pain, partner-level sponsor, paid discovery"
+d06,lost,real estate,ad management,600,"Wanted equity-only deal, no ad spend budget"
+d07,won,clinics,websites,2500,"Referral, trust established, fixed scope"
+d08,lost,hotels,SEO,,"Asked for free trial work upfront, walked away"
+d09,won,restaurants,AI agents / automation,2000,"WhatsApp ordering bot, owner decided in one call"
+d10,lost,law firms,websites,800,"Price shopping 5 vendors, chose cheapest"
+d11,won,real estate,ad management,6000,"Running ads already, wanted better ROAS, monthly retainer"
+d12,lost,clinics,ad management,,"No marketing budget approved, 'maybe next quarter'"
