@@ -180,3 +180,7 @@ Day 5 (27 Oct): HackOS submission (rename draft "AI Receptionist" →
 - [x] GitHub repo + README (public: https://github.com/Shivay00001/dealreasoner)
 - [x] Sponsor-tech usage explanation (`SPONSOR_TECH.md`)
 - [ ] Submitted on HackOS before 27 Oct 23:45 UTC (28 Oct 05:15 IST)
+
+## Built by VisionQuantech
+
+Part of the [VisionQuantech](https://visionquantech.com/) AI automation studio. See [AI voice agents for business calls](https://visionquantech.com/ai-voice-agents) and the guide to [AI phone answering for veterinary clinics](https://visionquantech.com/blog/ai-phone-answering-service-for-veterinary-clinics).
